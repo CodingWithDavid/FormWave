@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormWaveAnimation", "FormWaveAnimation\FormWaveAnimation.csproj", "{6094A50B-E212-4854-91EC-D6ABE3CFDD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6094A50B-E212-4854-91EC-D6ABE3CFDD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6094A50B-E212-4854-91EC-D6ABE3CFDD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6094A50B-E212-4854-91EC-D6ABE3CFDD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6094A50B-E212-4854-91EC-D6ABE3CFDD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227E6431-A5C5-4377-B035-2A0F14D6CF71}
+	EndGlobalSection
+EndGlobal
